@@ -1,6 +1,6 @@
 ---
 title: Monitoring ethereum transactions using blockscout
-author: surfharu
+author: niceharu
 date: 2022-11-01 09:00:00 +0800
 categories: [blockchain]
 tags: [blockchain, ethereum, blockscout] # TAG names should always be lowercase

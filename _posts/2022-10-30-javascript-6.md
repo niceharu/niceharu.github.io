@@ -1,6 +1,6 @@
 ---
 title: 한글 자소 분리 문제 해결하기
-author: surfharu
+author: niceharu
 date: 2022-10-30 14:00:00 +0800
 categories: [javascript]
 tags: [javascript, nfc, nfd] # TAG names should always be lowercase

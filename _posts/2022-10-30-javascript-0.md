@@ -1,6 +1,6 @@
 ---
 title: Convert between image and base64
-author: surfharu
+author: niceharu
 date: 2022-10-30 14:00:00 +0800
 categories: [javascript]
 tags: [javascript, convert, base64, image] # TAG names should always be lowercase

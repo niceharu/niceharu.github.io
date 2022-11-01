@@ -1,6 +1,6 @@
 ---
 title: Object copy (shallow vs deep)
-author: surfharu
+author: niceharu
 date: 2022-10-30 14:00:00 +0800
 categories: [javascript]
 tags: [javascript, object, copy, lodash] # TAG names should always be lowercase

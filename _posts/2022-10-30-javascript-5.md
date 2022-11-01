@@ -1,6 +1,6 @@
 ---
 title: Object에 해당 key값의 존재 여부 확인
-author: surfharu
+author: niceharu
 date: 2022-10-30 14:00:00 +0800
 categories: [javascript]
 tags: [javascript, key] # TAG names should always be lowercase
